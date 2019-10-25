@@ -23,6 +23,8 @@ plotData(saveQueryJSON(f, start))	# saving/plotting the data - creates an html f
 ```
 This is the resulting plot, showing the ability to display information via hovering the mouse over a datapoint:
 
+![Example plot](https://github.com/sam-olson/pdxquakes/blob/master/assets/example.png)
+
 FYI, here's how the JSON object is structured (this is located within the attribute `features`):
 
 ```json
